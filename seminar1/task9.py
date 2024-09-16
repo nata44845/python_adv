@@ -1,3 +1,4 @@
+# Таблица умножения
 LOWER_LIMIT = 2
 UPPER_LIMIT = 10
 COLUMN = 4

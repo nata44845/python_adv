@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94b61619-c8dd-4865-97b4-2e743b2f26b3" name="Changes" comment="" />
+    <list default="true" id="94b61619-c8dd-4865-97b4-2e743b2f26b3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +44,7 @@
     "Python.task9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Nata/GeekBrains/gb-git/python_adv/seminar4",
+    "last_opened_file_path": "C:/Nata/GeekBrains/gb-git/python_adv",
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>

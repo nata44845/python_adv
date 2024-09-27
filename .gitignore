@@ -1,12 +1,5 @@
 
-/seminar1/.idea/
-/seminar2/.idea/
-/seminar3/.idea/
-/seminar4/.idea/
-/seminar5/.idea/
-/seminar6/.idea/
-/seminar7/.idea/
-/seminar8/.idea/
+/**/.idea/*
 /.idea
 
 

@@ -13,7 +13,7 @@ while x<LOWER_LIMIT or x>UPPER_LIMIT:
 
 flag = 0
 i=2
-while i<=x//2 and flag == 0:
+while i<=int(x**0.5)+1 and flag == 0:
     if x%i == 0:
         flag = 1
     i += 1

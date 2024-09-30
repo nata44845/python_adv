@@ -9,7 +9,6 @@
 # Любое действие выводит сумму денег
 
 import decimal
-from turtledemo.forest import doit1
 
 CMD_DEPOSIT = 'П'
 CMD_WITHDRAW = 'С'

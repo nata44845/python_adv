@@ -1,0 +1,13 @@
+name,path,type,size,parent_directory,content
+.idea,C:\Nata\GeekBrains\gb-git\python_adv\seminar7\.idea,directory,6143,C:\Nata\GeekBrains\gb-git\python_adv\seminar7,"[{'name': 'inspectionProfiles', 'path': 'C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\.idea\\inspectionProfiles', 'type': 'directory', 'size': 174, 'parent_directory': 'C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\.idea', 'content': [{'name': 'profiles_settings.xml', 'path': 'C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\.idea\\inspectionProfiles\\profiles_settings.xml', 'type': 'file', 'size': 174, 'parent_directory': 'C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\.idea\\inspectionProfiles'}]}, {'name': 'misc.xml', 'path': 'C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\.idea\\misc.xml', 'type': 'file', 'size': 284, 'parent_directory': 'C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\.idea'}, {'name': 'vcs.xml', 'path': 'C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\.idea\\vcs.xml', 'type': 'file', 'size': 188, 'parent_directory': 'C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\.idea'}, {'name': 'workspace.xml', 'path': 'C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\.idea\\workspace.xml', 'type': 'file', 'size': 5497, 'parent_directory': 'C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\.idea'}]"
+dir,C:\Nata\GeekBrains\gb-git\python_adv\seminar7\dir,directory,0,C:\Nata\GeekBrains\gb-git\python_adv\seminar7,[]
+hw7.py,C:\Nata\GeekBrains\gb-git\python_adv\seminar7\hw7.py,file,3135,C:\Nata\GeekBrains\gb-git\python_adv\seminar7,
+readme.md,C:\Nata\GeekBrains\gb-git\python_adv\seminar7\readme.md,file,1478,C:\Nata\GeekBrains\gb-git\python_adv\seminar7,
+task1.py,C:\Nata\GeekBrains\gb-git\python_adv\seminar7\task1.py,file,928,C:\Nata\GeekBrains\gb-git\python_adv\seminar7,
+task2.py,C:\Nata\GeekBrains\gb-git\python_adv\seminar7\task2.py,file,1114,C:\Nata\GeekBrains\gb-git\python_adv\seminar7,
+task3.py,C:\Nata\GeekBrains\gb-git\python_adv\seminar7\task3.py,file,2237,C:\Nata\GeekBrains\gb-git\python_adv\seminar7,
+task4.py,C:\Nata\GeekBrains\gb-git\python_adv\seminar7\task4.py,file,1398,C:\Nata\GeekBrains\gb-git\python_adv\seminar7,
+task5.py,C:\Nata\GeekBrains\gb-git\python_adv\seminar7\task5.py,file,928,C:\Nata\GeekBrains\gb-git\python_adv\seminar7,
+task6.py,C:\Nata\GeekBrains\gb-git\python_adv\seminar7\task6.py,file,1670,C:\Nata\GeekBrains\gb-git\python_adv\seminar7,
+task7.py,C:\Nata\GeekBrains\gb-git\python_adv\seminar7\task7.py,file,1123,C:\Nata\GeekBrains\gb-git\python_adv\seminar7,
+__init__.py,C:\Nata\GeekBrains\gb-git\python_adv\seminar7\__init__.py,file,80,C:\Nata\GeekBrains\gb-git\python_adv\seminar7,

@@ -1,126 +1,240 @@
 [
     {
         "name": ".idea",
-        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\.idea",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\.idea",
         "type": "directory",
-        "size": 6143,
-        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7",
-        "content": [
-            {
-                "name": "inspectionProfiles",
-                "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\.idea\\inspectionProfiles",
-                "type": "directory",
-                "size": 174,
-                "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\.idea",
-                "content": [
-                    {
-                        "name": "profiles_settings.xml",
-                        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\.idea\\inspectionProfiles\\profiles_settings.xml",
-                        "type": "file",
-                        "size": 174,
-                        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\.idea\\inspectionProfiles"
-                    }
-                ]
-            },
-            {
-                "name": "misc.xml",
-                "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\.idea\\misc.xml",
-                "type": "file",
-                "size": 284,
-                "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\.idea"
-            },
-            {
-                "name": "vcs.xml",
-                "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\.idea\\vcs.xml",
-                "type": "file",
-                "size": 188,
-                "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\.idea"
-            },
-            {
-                "name": "workspace.xml",
-                "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\.idea\\workspace.xml",
-                "type": "file",
-                "size": 5497,
-                "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\.idea"
-            }
-        ]
+        "size": 6196,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8"
     },
     {
-        "name": "dir",
-        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\dir",
-        "type": "directory",
-        "size": 0,
-        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7",
-        "content": []
-    },
-    {
-        "name": "hw7.py",
-        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\hw7.py",
+        "name": ".gitignore",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\.idea\\.gitignore",
         "type": "file",
-        "size": 3135,
-        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7"
+        "size": 50,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\.idea"
+    },
+    {
+        "name": "inspectionProfiles",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\.idea\\inspectionProfiles",
+        "type": "directory",
+        "size": 174,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\.idea"
+    },
+    {
+        "name": "profiles_settings.xml",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\.idea\\inspectionProfiles\\profiles_settings.xml",
+        "type": "file",
+        "size": 174,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\.idea\\inspectionProfiles"
+    },
+    {
+        "name": "misc.xml",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\.idea\\misc.xml",
+        "type": "file",
+        "size": 284,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\.idea"
+    },
+    {
+        "name": "modules.xml",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\.idea\\modules.xml",
+        "type": "file",
+        "size": 275,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\.idea"
+    },
+    {
+        "name": "seminar8.iml",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\.idea\\seminar8.iml",
+        "type": "file",
+        "size": 291,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\.idea"
+    },
+    {
+        "name": "vcs.xml",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\.idea\\vcs.xml",
+        "type": "file",
+        "size": 188,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\.idea"
+    },
+    {
+        "name": "workspace.xml",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\.idea\\workspace.xml",
+        "type": "file",
+        "size": 4934,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\.idea"
+    },
+    {
+        "name": "hw8.py",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\hw8.py",
+        "type": "file",
+        "size": 3026,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8"
+    },
+    {
+        "name": "hw8_result.csv",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\hw8_result.csv",
+        "type": "file",
+        "size": 4498,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8"
+    },
+    {
+        "name": "hw8_result.json",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\hw8_result.json",
+        "type": "file",
+        "size": 8995,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8"
+    },
+    {
+        "name": "hw8_result.pkl",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\hw8_result.pkl",
+        "type": "file",
+        "size": 3502,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8"
     },
     {
         "name": "readme.md",
-        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\readme.md",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\readme.md",
         "type": "file",
-        "size": 1478,
-        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7"
+        "size": 1069,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8"
+    },
+    {
+        "name": "result",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\result",
+        "type": "file",
+        "size": 0,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8"
+    },
+    {
+        "name": "result.csv",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\result.csv",
+        "type": "file",
+        "size": 2673,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8"
+    },
+    {
+        "name": "result.json",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\result.json",
+        "type": "file",
+        "size": 2738,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8"
+    },
+    {
+        "name": "result.pickle",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\result.pickle",
+        "type": "file",
+        "size": 2251,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8"
+    },
+    {
+        "name": "result.pkl",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\result.pkl",
+        "type": "file",
+        "size": 1859,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8"
+    },
+    {
+        "name": "result.txt",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\result.txt",
+        "type": "file",
+        "size": 27982,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8"
     },
     {
         "name": "task1.py",
-        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\task1.py",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\task1.py",
         "type": "file",
-        "size": 928,
-        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7"
+        "size": 1029,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8"
     },
     {
         "name": "task2.py",
-        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\task2.py",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\task2.py",
         "type": "file",
-        "size": 1114,
-        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7"
+        "size": 1726,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8"
     },
     {
         "name": "task3.py",
-        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\task3.py",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\task3.py",
         "type": "file",
-        "size": 2237,
-        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7"
+        "size": 902,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8"
     },
     {
         "name": "task4.py",
-        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\task4.py",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\task4.py",
         "type": "file",
-        "size": 1398,
-        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7"
+        "size": 1621,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8"
     },
     {
         "name": "task5.py",
-        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\task5.py",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\task5.py",
         "type": "file",
-        "size": 928,
-        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7"
+        "size": 751,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8"
     },
     {
         "name": "task6.py",
-        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\task6.py",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\task6.py",
         "type": "file",
-        "size": 1670,
-        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7"
+        "size": 1060,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8"
     },
     {
         "name": "task7.py",
-        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\task7.py",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\task7.py",
         "type": "file",
-        "size": 1123,
-        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7"
+        "size": 893,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8"
+    },
+    {
+        "name": "users.csv",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\users.csv",
+        "type": "file",
+        "size": 45,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8"
+    },
+    {
+        "name": "users.json",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\users.json",
+        "type": "file",
+        "size": 150,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8"
+    },
+    {
+        "name": "users.pickle",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\users.pickle",
+        "type": "file",
+        "size": 88,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8"
+    },
+    {
+        "name": "users_new.csv",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\users_new.csv",
+        "type": "file",
+        "size": 139,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8"
+    },
+    {
+        "name": "users_new.json",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\users_new.json",
+        "type": "file",
+        "size": 348,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8"
+    },
+    {
+        "name": "users_new.pickle",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\users_new.pickle",
+        "type": "file",
+        "size": 173,
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8"
     },
     {
         "name": "__init__.py",
-        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7\\__init__.py",
+        "path": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8\\__init__.py",
         "type": "file",
         "size": 80,
-        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7"
+        "parent_directory": "C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar8"
     }
 ]

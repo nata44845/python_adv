@@ -25,6 +25,19 @@ def dir_rec(path: Path):
     for file in path.iterdir():
         dir_size = 0
 
+
+        if file.is_dir():
+            dir_path = os.path.abspath(file)
+            dir_size += get_dir_size(dir_path)
+            data.append({
+                'name': file.name,
+                'path': dir_path,
+                'type': 'directory',
+                'size': dir_size,
+                'parent_directory': str(path),
+            })
+            data += dir_rec(Path(dir_path))
+
         if file.is_file():
             file_path = os.path.abspath(file)
             file_size = os.path.getsize(file_path)
@@ -37,18 +50,6 @@ def dir_rec(path: Path):
                 'parent_directory': str(path)
             })
 
-        if file.is_dir():
-            dir_path = os.path.abspath(file)
-            dir_size += get_dir_size(dir_path)
-            data_dir = dir_rec(dir_path)
-            data.append({
-                'name': file.name,
-                'path': dir_path,
-                'type': 'directory',
-                'size': dir_size,
-                'parent_directory': str(path),
-                'content' : data_dir
-            })
     return data
 
 def get_dir_size(path):
@@ -68,7 +69,7 @@ def save_to_json(data, filename):
 
 
 def save_to_csv(data, filename):
-    headers = ['name','path', 'type', 'size', 'parent_directory','content']
+    headers = ['name','path', 'type', 'size', 'parent_directory']
     with open(filename, 'w', encoding='utf-8', newline='') as file:
         writer = csv.DictWriter(file, fieldnames=headers)
         writer.writeheader()
@@ -81,4 +82,5 @@ def save_to_pickle(data, filename):
 
 
 if __name__ == '__main__':
-    save_dir(Path('C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7'))
+    # save_dir(Path('C:\\Nata\\GeekBrains\\gb-git\\python_adv\\seminar7'))
+    save_dir()
